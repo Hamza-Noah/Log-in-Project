@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Titillium Web", sans-serif;
+    background-color: #24353f;
+}
+
+
+.form-container {
+    box-shadow: rgb(0, 0, 0) -5px 2px 54px -9px;
+    padding: 30px;
+    margin-top: 40px !important;
+}
+
+.form-container h1 {
+    color: rgb(23, 162, 184);
+    font-size: 2.5rem;
+}
+
+.form-container input {
+    
+    background-color: #24353f;
+    margin-block: 15px !important;
+    color: white !important;
+}
+
+
+.form-container input:focus {
+    background-color: #24353f;
+}
+
+.form-container button {
+    padding: 7px 0 ;
+    background-color: #24353f;
+    border: solid 1px rgb(23, 162, 184);
+    color: rgb(23, 162, 184) !important;
+    margin-block: 15px !important;
+    transition: ease-in-out 0.4s;
+}
+
+.form-container button:hover {
+    background-color: rgb(23, 162, 184);
+    color: white !important;
+
+}
