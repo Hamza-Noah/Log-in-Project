@@ -1,0 +1,49 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Titillium Web", sans-serif;
+  background-color: #24353f;
+}
+
+.form-container {
+  -webkit-box-shadow: black -5px 2px 54px -9px;
+          box-shadow: black -5px 2px 54px -9px;
+  padding: 30px;
+  margin-top: 40px !important;
+}
+
+.form-container h1 {
+  color: #17a2b8;
+  font-size: 2.5rem;
+}
+
+.form-container input {
+  background-color: #24353f;
+  margin-block: 15px !important;
+  color: white !important;
+}
+
+.form-container input:focus {
+  background-color: #24353f;
+}
+
+.form-container button {
+  padding: 7px 0;
+  background-color: #24353f;
+  border: solid 1px #17a2b8;
+  color: #17a2b8 !important;
+  margin-block: 15px !important;
+  -webkit-transition: ease-in-out 0.4s;
+  transition: ease-in-out 0.4s;
+}
+
+.form-container button:hover {
+  background-color: #17a2b8;
+  color: white !important;
+}
+/*# sourceMappingURL=style.css.map */
