@@ -24,4 +24,4 @@ Open index.html in your web browser.
 Follow the on-screen instructions to register or log in.
 Enjoy seamless authentication and access to the Home page.
 Credits
-This project was developed by [Your Name] as a demonstration of JavaScript and CSS skills.
+This project was developed by Hamza Nouh as a demonstration of JavaScript and CSS skills.
