@@ -31,4 +31,4 @@ This repository contains a simple and efficient implementation of user authentic
 4. Enjoy seamless authentication and access to the Home page.
 
 ## Credits
-This project was developed by Hamza Nouh as a demonstration of JavaScript and CSS skills.
+This project was developed by Hamza Nouh as a demonstration of HTML, CSS and JavaScript skills.
